@@ -1,0 +1,19 @@
+p {
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font: #722f2f;
+  margin-left: 40px;
+  margin-top: 15px;
+}
+
+#segundo img {
+  margin-top: 16px;
+  margin-left: 880px;
+  width: 480px;
+}
+
+#gif {
+  position: absolute;
+  top: 280px;
+  left: 190px;
+}

@@ -1,0 +1,18 @@
+p {
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font: #722f2f;
+  margin-left: 40px;
+}
+#seg img{
+    margin-left:260px;
+    width:450px;
+    margin-top: 20px;
+    
+}
+#tercero img {
+    
+  margin-left: 1000px;
+  width: 300px;
+  margin-top: -190px;
+}

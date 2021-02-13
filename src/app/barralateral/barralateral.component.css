@@ -1,0 +1,37 @@
+.sidenav-container {
+  background:gris;
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+  background-color: #92876C;
+  background-image: url(/assets/imagenes/tenor.gif) 
+}
+
+<!-- Nombre agregado con la rutas del link -->
+.sidenav .mat-toolbar {
+  background: gris;
+}
+.sidenav-container {
+  background: #979586;
+  background-repeat:repeat-x
+}
+.sidenav .mat-nav-list {
+  //background: #C0BBB0;
+  background-image: url(/assets/imagenes/aa.gif);
+  height: 202px;
+
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+mat-toolbar {
+  background-image: url(/assets/imagenes/x.gif);
+  height:70px;
+}
+
+
